@@ -12,3 +12,4 @@
 ** all zero test
 ** garbage in test
 ** language directionality and cursive connection test
+**window-resizing test, sucks at this
