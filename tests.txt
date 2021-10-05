@@ -13,3 +13,5 @@
 ** garbage in test
 ** language directionality and cursive connection test
 **window-resizing test, sucks at this
+**left to right right to left, up and down text tests
+**left to right right to left, up and down text tests
