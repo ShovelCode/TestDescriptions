@@ -18,3 +18,7 @@
 **left to right right to left, up and down text tests
 ** color-blind tests
 ** accessibility tests
+** clickable popup calendar test
+** password generation test.
+** doom radio test
+** can it run Doom?
