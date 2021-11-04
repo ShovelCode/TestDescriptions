@@ -22,5 +22,6 @@
 ** password generation test.
 ** doom radio test
 ** can it run Doom?
+Cobol Test
 Screenreader test
 whatever disability tests
