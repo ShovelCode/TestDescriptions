@@ -3,7 +3,7 @@
 #include <vector>
 #include <stdlib>
 #include <armadillo> //linear algebra
-
+#include <string>
  
 constexpr double sqrt3_2 = 0.86602540378444; // sqrt(3)/2
  
