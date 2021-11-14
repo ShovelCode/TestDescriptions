@@ -30,3 +30,4 @@ Bullshit
 FSF/Stallman openness tests
 black and white 
 bit raster display / atari portfolio test
+Environmental tests
