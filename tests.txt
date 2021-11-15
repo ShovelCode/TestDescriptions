@@ -1,33 +1,36 @@
-  ** Zekr test
- ** Deseret Test
- ** APL character test
- ** ruby test
- ** Docker test
-** HTML test
-** advanced image in CSS test
- ** Java 8 test
-** libraries and frameworks test
-** browser resizing test
-** SICP tests, and SICP tests materials (Scheme)
-** divide by zero test
-** all zero test
-** garbage in test
-** language directionality and cursive connection test
-**window-resizing test, sucks at this
-**left to right right to left, up and down text tests
-**left to right right to left, up and down text tests
-** color-blind tests
-** accessibility tests
-** clickable popup calendar test
-** password generation test.
-** doom radio test
-** can it run Doom?
-Cobol Test
-Screenreader test
-whatever disability tests
-Zero use / dormancy
-Bullshit
-FSF/Stallman openness tests
-black and white 
-bit raster display / atari portfolio test
-Environmental tests
+ Environment
+  Zekr test
+  Deseret Test
+  can it run Doom?
+  Cobol Test
+  
+Application  
+  APL character test
+  Ruby test
+  Docker test
+  HTML test
+  advanced image in CSS test
+  Java 8 test
+  libraries and frameworks test
+  browser resizing test
+  SICP tests, and SICP tests materials (Scheme)
+  divide by zero test
+  all zero test
+  garbage in test
+  language directionality and cursive connection test
+  window-resizing test, sucks at this
+  left to right right to left, up and down text tests
+  left to right right to left, up and down text tests
+  color-blind tests
+  accessibility tests
+  clickable popup calendar test
+  password generation test.
+  doom radio test
+  Screenreader test
+  whatever disability tests 
+  Zero use / dormancy
+  Bullshit
+  FSF/Stallman openness tests
+  black and white 
+  bit raster display / atari portfolio test
+  Environmental cost tests
