@@ -1,8 +1,6 @@
 #include "graphics.h"
 #include <stdio.h>
-#include <gb/gb.h> //8-bit gameboy programming library from a dev named loirak,
-      //the main method below shows it being used
-
+#include <gb/gb.h> //8-bit gameboy programming library from a dev named loirak, main method below is for it
 
 void main()
 {
