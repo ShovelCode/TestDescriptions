@@ -1,5 +1,6 @@
 #include "graphics.h"
 #include <stdio.h>
+#include <stdlib.h>
 #include "conio.h"
 
 #include <gb/gb.h> //8-bit gameboy programming library from a dev named loirak, main method below is for it
