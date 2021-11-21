@@ -3,17 +3,20 @@
   Deseret Test
   can it run Doom?
   Cobol Test
+  Ruby
+  Docker
+  HTML
+  PHP
+  Java 8
+  SQLite
+  SICP tests (Structure and Interpretation of Computer Programs)
+  Doom Radio
   
 Application  
   APL character test
-  Ruby test
-  Docker test
-  HTML test
   advanced image in CSS test
-  Java 8 test
   libraries and frameworks test
   browser resizing test
-  SICP tests, and SICP tests materials (Scheme)
   divide by zero test
   all zero test
   garbage in test
