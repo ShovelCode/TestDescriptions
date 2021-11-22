@@ -4,6 +4,7 @@
 #include <stdlib>
 #include <armadillo> //linear algebra
 #include <string>
+#include <time.h>
 #include <breep/network/tcp.hpp> //EU license
  
 constexpr double sqrt3_2 = 0.86602540378444; // sqrt(3)/2
