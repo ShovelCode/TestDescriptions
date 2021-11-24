@@ -11,6 +11,12 @@
   SQLite
   SICP tests (Structure and Interpretation of Computer Programs)
   Doom Radio
+  Postman
+  JS
+  J
+  Q
+  Haskell
+  (insert language here)
   
 Application  
   APL character test
