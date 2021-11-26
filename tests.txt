@@ -17,6 +17,10 @@
   Q
   Haskell
   (insert language here)
+  Compilers
+  IDEs
+  Interpreters
+  Editors
   
 Application  
   APL character test
