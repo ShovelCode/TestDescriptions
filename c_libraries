@@ -1,9 +1,36 @@
-#include "graphics.h"
-#include <stdio.h>
-#include <stdlib.h>
-#include <stdbool.h>
-#include "conio.h"
+//C Standard libraries
+#include <assert.h>	
+#include <complex.h>
+#include <ctype.h>	
+#include <errno.h>	
+#include <fenv.h>	
+<float.h>	
+<inttypes.h>
+<iso646.h>	
+<limits.h>	
+<locale.h>	
+<math.h>	
+<setjmp.h>	
+<signal.h>	
+<stdalign.h>
+<stdarg.h>		
+<stdatomic.h>	
+<stdbool.h>	C99	
+<stddef.h>		
+<stdint.h>	C99	
+<stdio.h>		
+<stdlib.h>		
+<stdnoreturn.h>	
+<string.h>		
+<tgmath.h>	
+<threads.h>	
+<time.h>	
+<uchar.h>	
+<wchar.h>	
+<wctype.h>	
 
+#include "conio.h" //changed text color in MS-DOS systems
+#include "graphics.h"
 #include <gb/gb.h> //8-bit gameboy programming library from a dev named loirak, main method below is for it
 
 void main()
