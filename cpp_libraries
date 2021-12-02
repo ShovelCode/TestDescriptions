@@ -24,6 +24,11 @@
 #include <variant>
 #include <version>
 
+#include <memory>
+#include <memory_resource>
+#include <new>
+#include <scoped_allocator>
+
 #include <fstream>
 #include <iostream>
 #include <vector>
