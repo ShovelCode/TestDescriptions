@@ -33,6 +33,7 @@
 #include "conio.h" //changed text color in MS-DOS systems
 #include "graphics.h"
 #include <gb/gb.h> //8-bit gameboy programming library from a dev named loirak, main method below is for it
+#include <Cello.h> //makes C syntax more modern
 
 void main()
 {
