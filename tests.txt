@@ -16,6 +16,7 @@
   J
   Q
   Haskell
+  Rust
   (insert language here)
   Compilers
   IDEs
