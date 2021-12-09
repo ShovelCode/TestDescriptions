@@ -1,0 +1,17 @@
+Agile method of 2 week scrump periods. Usually beginning and middle of the month.
+TDD
+a working system that can be tested or interviewed every scrum period
+
+waterfall is actually not that bad.
+analysis
+design
+coding
+installation
+operating and support
+
+permutation of keystrokes and mouse inputs
+
+input-output bound
+comppute bound
+monitoring real-time processing
+
