@@ -50,4 +50,5 @@ Application
   Environmental cost tests
   Big Number Test
   Complex Number Test
+  Quaternion Test
   Pi, e, sqrt(2), and other irrational constants test (eg, Montecarlo)
