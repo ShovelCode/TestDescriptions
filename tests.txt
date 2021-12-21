@@ -49,6 +49,7 @@ Application
   bit raster display / atari portfolio test
   Environmental cost tests
   Big Number Test
+  Big String Test
   Complex Number Test
   Quaternion Test
   Pi, e, sqrt(2), and other irrational constants test (eg, Montecarlo)
