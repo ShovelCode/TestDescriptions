@@ -52,4 +52,14 @@ Application
   Big String Test
   Complex Number Test
   Quaternion Test
+  
+  constants:
   Pi, e, sqrt(2), and other irrational constants test (eg, Montecarlo)
+  catalan's constant
+  golden ratio
+  
+  other mathematical:
+  factorization
+  greatest common factor (gcf)
+  lowest common denominator (lcd)
+  
