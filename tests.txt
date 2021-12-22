@@ -62,4 +62,8 @@ Application
   factorization
   greatest common factor (gcf)
   lowest common denominator (lcd)
+  polynomial derivatives
+  trigonometric derivatives
+  vector calculations
+  
   
