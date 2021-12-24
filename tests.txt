@@ -52,6 +52,7 @@ Application
   Big String Test
   Complex Number Test
   Quaternion Test
+  red-and-black (lowest energy to display)
   
   constants:
   Pi, e, sqrt(2), and other irrational constants test (eg, Montecarlo)
