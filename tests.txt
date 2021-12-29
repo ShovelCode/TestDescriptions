@@ -35,6 +35,7 @@ Application
   window-resizing test, sucks at this
   left to right right to left, up and down text tests
   left to right right to left, up and down text tests
+  vertical text tests
   color-blind tests
   accessibility tests
   clickable popup calendar test
