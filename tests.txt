@@ -68,4 +68,11 @@ Application
   trigonometric derivatives
   vector calculations
   
-  
+  modularity towards operating system (OS) agnostic
+  portability
+  fits-on-floppy
+  fits-on-CD
+  fits-on-DVD
+  fits-on-Bluray
+  fits-on-qrcode
+  fits-on-hitclip
