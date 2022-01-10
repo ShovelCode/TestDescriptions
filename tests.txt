@@ -76,3 +76,8 @@ Application
   fits-on-Bluray
   fits-on-qrcode
   fits-on-hitclip
+
+5 year test
+10 year test
+25 year test
+50 year test
