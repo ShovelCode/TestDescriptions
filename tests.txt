@@ -54,6 +54,8 @@ Application
   Complex Number Test
   Quaternion Test
   red-and-black (lowest energy to display)
+  file size tests
+  timing tests
   
   constants:
   Pi, e, sqrt(2), and other irrational constants test (eg, Montecarlo)
