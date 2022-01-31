@@ -60,6 +60,7 @@ Application
   delivery test
   new user test
   copy-paste test
+  rush-of-orders test
   
   constants:
   Pi, e, sqrt(2), and other irrational constants test (eg, Montecarlo)
