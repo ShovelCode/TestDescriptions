@@ -3,3 +3,4 @@ typeability test
 use from console test
 use from emacs test
 offliner, used-store-in-the-future test
+math notation tests
