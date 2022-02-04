@@ -8,3 +8,5 @@ big matrix test - displaying and computing
 scroll and no-scroll tests
 morphing test
 skeuomorphism test
+iconography tests
+borders on buttons tests
