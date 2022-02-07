@@ -11,3 +11,4 @@ skeuomorphism test
 iconography tests
 borders on buttons tests
 intuition
+advertising placement
