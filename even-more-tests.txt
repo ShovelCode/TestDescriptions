@@ -12,3 +12,4 @@ iconography tests
 borders on buttons tests
 intuition
 advertising placement
+cloud develomentability (ignore the bottom and top rows of the standard keyboard except for the spacebar)
