@@ -16,3 +16,6 @@ cloud develomentability (ignore the bottom and top rows of the standard keyboard
 surround sound
 online search engine searchability
 a bunch of tabs in the brower test
+the where-the-fuck-do-i-go test
+  to pass this test, you must know where to go
+voice quality test
