@@ -19,3 +19,5 @@ a bunch of tabs in the brower test
 the where-the-fuck-do-i-go test
   to pass this test, you must know where to go
 voice quality test
+editability
+text searchability (PDFs sometimes fail at this)
