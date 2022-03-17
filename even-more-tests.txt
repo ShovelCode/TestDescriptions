@@ -2,7 +2,7 @@ key permutation space test
 typeability test
 use from console test
 use from emacs test
-offliner, used-store-in-the-future test
+offliner, used-store-in-the-future test (think classic video game stores)
 math notation tests
 big matrix test - displaying and computing
 scroll and no-scroll tests
