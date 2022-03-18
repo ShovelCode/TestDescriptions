@@ -21,3 +21,4 @@ the where-the-fuck-do-i-go test
 voice quality test
 editability
 text searchability (PDFs sometimes fail at this)
+CRT/low res test
