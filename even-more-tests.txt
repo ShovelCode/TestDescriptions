@@ -24,3 +24,5 @@ text searchability (PDFs sometimes fail at this)
 CRT/low res test
 low computer-literacy test
 system clock test (what does changing the time do)
+large passwords
+moving data between save files
