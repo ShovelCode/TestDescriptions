@@ -26,3 +26,5 @@ low computer-literacy test
 system clock test (what does changing the time do)
 large passwords
 moving data between save files
+set and forget test
+documentability test
