@@ -30,3 +30,4 @@ set and forget test
 documentability test
 time-to-data-capture
 name translatability/cultural test
+meinong's jungle test: activate an instance of every class/structure in an information system and then have them call all of their methods.
