@@ -32,3 +32,6 @@ time-to-data-capture
 name translatability/cultural test
 meinong's jungle test: activate an instance of every class/structure in an information system and then have them call all of their methods.
 Rough-road listening (this is mostly for podcast quality, the ability to listen to a podcast or other recorded audio file while driving over a rough/newly paved road)
+drunkenness test
+disaster recovery test
+
