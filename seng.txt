@@ -15,3 +15,6 @@ input-output bound
 comppute bound
 monitoring real-time processing
 
+If documented correctly then with OOPish 
+Diagrams the whole information system can be
+Recreated.
