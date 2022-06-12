@@ -34,4 +34,4 @@ meinong's jungle test: activate an instance of every class/structure in an infor
 Rough-road listening (this is mostly for podcast quality, the ability to listen to a podcast or other recorded audio file while driving over a rough/newly paved road)
 drunkenness test
 disaster recovery test
-
+monkey typer test
