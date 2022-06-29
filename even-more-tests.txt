@@ -35,3 +35,5 @@ Rough-road listening (this is mostly for podcast quality, the ability to listen 
 drunkenness test
 disaster recovery test
 monkey typer test
+battery-draining
+large text file (editors opening up gigabytes worth of text)
