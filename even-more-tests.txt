@@ -38,3 +38,7 @@ monkey typer test
 battery-draining
 large text file (editors opening up gigabytes worth of text)
 compiles easily
+
+extreme heat
+extreme cold 
+the previous two tests will be on a range
