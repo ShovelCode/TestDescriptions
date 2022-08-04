@@ -1,3 +1,6 @@
+dependency check
+internet dependency check
+
 key permutation space test
 typeability test
 use from console test
