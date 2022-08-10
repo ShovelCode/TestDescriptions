@@ -1,3 +1,4 @@
 selfie test
 analyze picture (like PandaNet)
 Connects to Printer
+Testability
