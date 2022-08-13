@@ -4,3 +4,4 @@ Connects to Printer
 Testability
 TDD-ability
 mathematical describability
+100 pizzas test
