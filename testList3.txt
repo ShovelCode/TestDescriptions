@@ -5,3 +5,8 @@ Testability
 TDD-ability
 mathematical describability
 100 pizzas test
+in the rain
+in the dust storm
+in the cold
+in the hot drought
+earthquake
