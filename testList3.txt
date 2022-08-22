@@ -11,3 +11,9 @@ in the cold
 in the hot drought
 earthquake
 in salt-air environment
+venus
+mars
+mercury
+lunar
+phobos
+deimos
