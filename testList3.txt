@@ -18,3 +18,4 @@ lunar
 phobos
 deimos
 emotional moment test
+Development Skill Learning Ability (mostly applies to a language, does it have online certifications, books written about it, and ways to learn it online)
