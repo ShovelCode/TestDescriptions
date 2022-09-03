@@ -22,3 +22,4 @@ Development Skill Learning Ability (mostly applies to a language, does it have o
 pandemic test
 war test
 collapse of water test
+ML opponent test
