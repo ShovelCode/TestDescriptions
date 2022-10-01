@@ -3,3 +3,9 @@ time-flow charts
 graph theory hubs
 currencies and their incentives
 busy-work
+grinding tasks and loops
+falling-block puzzles
+  zero pairs blocks
+   line puzzles representing addition of integers
+3d manifolds as playable surfaces going beyond greek geometry
+non rectilinear lines
