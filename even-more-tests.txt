@@ -46,3 +46,7 @@ compiles easily
 extreme heat
 extreme cold 
 the previous two tests will be on a range
+
+salesforce api
+pastebin api
+api ecosystem
