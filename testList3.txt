@@ -30,3 +30,4 @@ Sentinel Island
 Mt. Athos
 stick it in a backpack to that will be biked with
 VR UI tests
+screenshotability
