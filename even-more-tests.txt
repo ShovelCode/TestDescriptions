@@ -50,3 +50,5 @@ the previous two tests will be on a range
 salesforce api
 pastebin api
 api ecosystem
+
+clean code and clean architecture evaluations
