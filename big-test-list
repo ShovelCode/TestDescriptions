@@ -124,3 +124,58 @@ VR UI tests
 screenshotability
 no account usage
 does jerking off count as mountain biking? (smartwatch test)
+
+testability TDD-ability
+dependency check
+internet dependency check
+
+key permutation space test
+typeability test
+use from console test
+use from emacs test
+offliner, used-store-in-the-future test (think classic video game stores)
+math notation tests
+big matrix test - displaying and computing
+scroll and no-scroll tests
+morphing test
+skeuomorphism test
+iconography tests
+borders on buttons tests
+intuition
+advertising placement
+cloud develomentability (ignore the bottom and top rows of the standard keyboard except for the spacebar, don't put emacs or vim in the web editor :/ )
+surround sound
+online search engine searchability
+a bunch of tabs in the brower test
+the where-the-fuck-do-i-go test
+  to pass this test, you must know where to go
+voice quality test
+editability
+text searchability (PDFs sometimes fail at this)
+CRT/low res test
+low computer-literacy test
+system clock test (what does changing the time do)
+large passwords
+moving data between save files
+set and forget test
+documentability test
+time-to-data-capture
+name translatability/cultural test
+meinong's jungle test: activate an instance of every class/structure in an information system and then have them call all of their methods.
+Rough-road listening (this is mostly for podcast quality, the ability to listen to a podcast or other recorded audio file while driving over a rough/newly paved road)
+drunkenness test
+disaster recovery test
+monkey typer test
+battery-draining
+large text file (editors opening up gigabytes worth of text)
+compiles easily
+
+extreme heat
+extreme cold 
+the previous two tests will be on a range
+
+salesforce api
+pastebin api
+api ecosystem
+
+clean code and clean architecture evaluations
