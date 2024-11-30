@@ -1,4 +1,4 @@
-A list and user profile
+no A list and user profile
 
 Dollar General, Family Dollar, Dollar Tree, Five Below
 a grocery store or big box retailer if lucky
@@ -47,3 +47,6 @@ proof of residence
 public library
 fitness app
 car data app (tire, oil, et cetera)
+
+can it reset from email browsers?
+
