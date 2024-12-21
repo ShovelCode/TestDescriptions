@@ -1,0 +1,16 @@
+Value engineering is a process in architecture 
+in which the architects will remove things
+to cut the cost of the final product or leave
+it open for extension later.
+
+This can also be done with software.
+
+Most software has to be made with considerations
+for the end users, or edge nodes.
+
+These are typically low-end laptops running
+Windows (slowly), low-end Android smartphones,
+and some basic Windows and Linux desktops.
+
+They users generally expect to use all information 
+systems via their web browser.
